@@ -1,2 +1,6 @@
 # Jorgen Owner's Manual
-Owner's Manual for Jorgen
+
+Includes:
+- A manual (index.html)
+- a child theme
+- Dev tools
